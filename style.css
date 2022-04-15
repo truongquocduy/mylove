@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "The Marbler Personal Use";
+    src: url("./Pincllo-WyZr4.ttf");
+  }
 body{
     font-family: 'The Marbler Personal Use', sans-serif;
     background-image: url(./background.jpg);
